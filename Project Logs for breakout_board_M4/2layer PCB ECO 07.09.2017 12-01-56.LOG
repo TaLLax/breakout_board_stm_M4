@@ -1,0 +1,9 @@
+Change Component Comment : Designator=P5 Old Comment=Header 2 New Comment=
+Change Component Comment : Designator=P4 Old Comment=Header 13 New Comment=
+Change Component Comment : Designator=P2 Old Comment=Header 14 New Comment=
+Change Component Comment : Designator=P1 Old Comment=Header 15 New Comment=
+Change Component Comment : Designator=P3 Old Comment=Header 15 New Comment=
+Change Component Comment : Designator=JP1 Old Comment=JP2 New Comment=
+Change Component Comment : Designator=U1 Old Comment=STM32F446RE New Comment=*
+Added Room: Name=breakout_board_M4
+Added Room: Name=Power
